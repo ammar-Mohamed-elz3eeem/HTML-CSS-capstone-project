@@ -32,7 +32,7 @@
     justify-content: center;
 }
 .aa-justify-between {
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .aa-justify-evenly {
     justify-content: space-evenly;
@@ -89,3 +89,285 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 /***************** Grid Properties End *****************/
+
+.aa-padding-left-sm {
+    padding-left: 0.5rem;
+}
+.aa-padding-left-md {
+    padding-left: 0.75rem;
+}
+.aa-padding-left-lg {
+    padding-left: 1rem;
+}
+.aa-padding-left-xl {
+    padding-left: 1.25rem;
+}
+.aa-padding-left-2xl {
+    padding-left: 2rem;
+}
+.aa-padding-left-3xl {
+    padding-left: 3rem;
+}
+.aa-padding-right-sm {
+    padding-right: 0.5rem;
+}
+.aa-padding-right-md {
+    padding-right: 0.75rem;
+}
+.aa-padding-right-lg {
+    padding-right: 1rem;
+}
+.aa-padding-right-xl {
+    padding-right: 1.25rem;
+}
+.aa-padding-right-2xl {
+    padding-right: 2rem;
+}
+.aa-padding-right-3xl {
+    padding-right: 3rem;
+}
+.aa-padding-top-sm {
+    padding-top: 0.5rem;
+}
+.aa-padding-top-md {
+    padding-top: 0.75rem;
+}
+.aa-padding-top-lg {
+    padding-top: 1rem;
+}
+.aa-padding-top-xl {
+    padding-top: 1.25rem;
+}
+.aa-padding-top-2xl {
+    padding-top: 2rem;
+}
+.aa-padding-top-3xl {
+    padding-top: 3rem;
+}
+.aa-padding-bottom-sm {
+    padding-bottom: 0.5rem;
+}
+.aa-padding-bottom-md {
+    padding-bottom: 0.75rem;
+}
+.aa-padding-bottom-lg {
+    padding-bottom: 1rem;
+}
+.aa-padding-bottom-xl {
+    padding-bottom: 1.25rem;
+}
+.aa-padding-bottom-2xl {
+    padding-bottom: 2rem;
+}
+.aa-padding-bottom-3xl {
+    padding-bottom: 3rem;
+}
+.aa-padding-x-sm {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+.aa-padding-x-md {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+}
+.aa-padding-x-lg {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.aa-padding-x-xl {
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+}
+.aa-padding-x-2xl {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+.aa-padding-x-3xl {
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+.aa-padding-y-sm {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.aa-padding-y-md {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+.aa-padding-y-lg {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.aa-padding-y-xl {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+.aa-padding-y-2xl {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.aa-padding-y-3xl {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.aa-padding-sm {
+    padding: 0.5rem;
+}
+.aa-padding-md {
+    padding: 0.75rem;
+}
+.aa-padding-lg {
+    padding: 1rem;
+}
+.aa-padding-xl {
+    padding: 1.25rem;
+}
+.aa-padding-2xl {
+    padding: 2rem;
+}
+.aa-padding-3xl {
+    padding: 3rem;
+}
+
+/***************** Padding Properties End *****************/
+
+.aa-margin-left-sm {
+    margin-left: 0.5rem;
+}
+.aa-margin-left-md {
+    margin-left: 0.75rem;
+}
+.aa-margin-left-lg {
+    margin-left: 1rem;
+}
+.aa-margin-left-xl {
+    margin-left: 1.25rem;
+}
+.aa-margin-left-2xl {
+    margin-left: 2rem;
+}
+.aa-margin-left-3xl {
+    margin-left: 3rem;
+}
+.aa-margin-right-sm {
+    margin-right: 0.5rem;
+}
+.aa-margin-right-md {
+    margin-right: 0.75rem;
+}
+.aa-margin-right-lg {
+    margin-right: 1rem;
+}
+.aa-margin-right-xl {
+    margin-right: 1.25rem;
+}
+.aa-margin-right-2xl {
+    margin-right: 2rem;
+}
+.aa-margin-right-3xl {
+    margin-right: 3rem;
+}
+.aa-margin-top-sm {
+    margin-top: 0.5rem;
+}
+.aa-margin-top-md {
+    margin-top: 0.75rem;
+}
+.aa-margin-top-lg {
+    margin-top: 1rem;
+}
+.aa-margin-top-xl {
+    margin-top: 1.25rem;
+}
+.aa-margin-top-2xl {
+    margin-top: 2rem;
+}
+.aa-margin-top-3xl {
+    margin-top: 3rem;
+}
+.aa-margin-bottom-sm {
+    margin-bottom: 0.5rem;
+}
+.aa-margin-bottom-md {
+    margin-bottom: 0.75rem;
+}
+.aa-margin-bottom-lg {
+    margin-bottom: 1rem;
+}
+.aa-margin-bottom-xl {
+    margin-bottom: 1.25rem;
+}
+.aa-margin-bottom-2xl {
+    margin-bottom: 2rem;
+}
+.aa-margin-bottom-3xl {
+    margin-bottom: 3rem;
+}
+.aa-margin-x-sm {
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+}
+.aa-margin-x-md {
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+}
+.aa-margin-x-lg {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.aa-margin-x-xl {
+    margin-right: 1.25rem;
+    margin-left: 1.25rem;
+}
+.aa-margin-x-2xl {
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+.aa-margin-x-3xl {
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.aa-margin-y-sm {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.aa-margin-y-md {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+.aa-margin-y-lg {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.aa-margin-y-xl {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+.aa-margin-y-2xl {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.aa-margin-y-3xl {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.aa-margin-sm {
+    margin: 0.5rem;
+}
+.aa-margin-md {
+    margin: 0.75rem;
+}
+.aa-margin-lg {
+    margin: 1rem;
+}
+.aa-margin-xl {
+    margin: 1.25rem;
+}
+.aa-margin-2xl {
+    margin: 2rem;
+}
+.aa-margin-3xl {
+    margin: 3rem;
+}
+
+/***************** Margin Properties End *****************/

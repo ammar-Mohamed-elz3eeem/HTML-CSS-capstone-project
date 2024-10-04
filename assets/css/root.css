@@ -1,0 +1,14 @@
+:root {
+    --bg-primary: #004466;
+    --bg-secondary: #0088cc;
+
+    --heading-color: #FFFFFF;
+    --footer-text: #ffffff;
+
+    --body-bg: #f0f4f8;
+    --text-color: #333333;
+    --links: #006699;
+    --footer-links: #FFFFFF;
+    --success-color: #27ae60;
+    --error-color: #e74c3c;
+}

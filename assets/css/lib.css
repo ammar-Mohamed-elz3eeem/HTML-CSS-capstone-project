@@ -1,0 +1,91 @@
+.aa-flex {
+    display: flex;
+}
+.aa-flex-row {
+    flex-direction: row;
+}
+.aa-flex-column {
+    flex-direction: column;
+}
+.aa-flex-wrap {
+    flex-wrap: wrap;
+}
+.aa-flex-nowrap {
+    flex-wrap: nowrap;
+}
+.aa-flex-grow {
+    flex-grow: 1;
+}
+.aa-items-center {
+    align-items: center;
+}
+.aa-items-start {
+    align-items: flex-start;
+}
+.aa-items-end {
+    align-items: flex-end;
+}
+.aa-items-stretch {
+    align-items: stretch;
+}
+.aa-justify-center {
+    justify-content: center;
+}
+.aa-justify-between {
+    justify-content: space-around;
+}
+.aa-justify-evenly {
+    justify-content: space-evenly;
+}
+.aa-justify-around {
+    justify-content: space-around;
+}
+.aa-justify-start {
+    justify-content: flex-start;
+}
+.aa-justify-end {
+    justify-content: flex-end;
+}
+.aa-justify-stretch {
+    justify-content: flex-stretch;
+}
+/***************** Flex Properties End *****************/
+
+.relative {
+    position: relative;
+}
+.absolute {
+    position: absolute;
+}
+/***************** Position Properties End *****************/
+
+.overflow-hidden {
+    overflow: hidden;
+}
+.overflow-scroll {
+    overflow: scroll;
+}
+.overflow-scroll-x {
+    overflow-x: scroll;
+}
+.overflow-scroll-y {
+    overflow-y: scroll;
+}
+/***************** Overflow Properties End *****************/
+
+.aa-grid {
+    display: grid;
+}
+.aa-grid-cols-1 {
+    grid-template-columns: 1fr;
+}
+.aa-grid-cols-2 {
+    grid-template-columns: 1fr 1fr;
+}
+.aa-grid-cols-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.aa-grid-cols-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+/***************** Grid Properties End *****************/
